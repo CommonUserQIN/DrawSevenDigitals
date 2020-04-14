@@ -36,7 +36,7 @@ def drawdate(date):
 
 #主程序
 def main():
-    t.setup(800,600)
+    t.setup(1000,600)
     t.penup()
     t.fd(-300)
     t.pencolor('red')
